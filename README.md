@@ -1,7 +1,7 @@
 # autotee
 
-This application enables auto registration for golf course tee times via POST APIs accessed through SwaggerUI.
-* URL: https://www.samplegolf.com
+This web service enables auto-registration for golf course tee times via POST APIs, eliminiating the need to manually book.
+* URL: https://www.somesamplegolfcourse.com
 
 ## Backend Requirements
 
